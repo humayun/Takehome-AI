@@ -42,7 +42,7 @@ You'll work with real (anonymized) BOQ Excel files from construction projects. Y
 
 ### Input Files
 
-> **Note:** The BOQ data files are provided separately as a zip file. Extract them to `data/boq_files/` before starting.
+> **Note:** The BOQ data files are provided separately via Google Drive. Download them to `data/boq_files/` before starting.
 
 `data/boq_files/` contains several BOQ Excel workbooks. Each workbook may have:
 
