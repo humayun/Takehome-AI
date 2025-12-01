@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env.local
+src/.env
+
+# Internal files (not shared with candidates)
+_internal/
+
+# Data files (provided separately as zip)
+data/boq_files/*.xlsx
+
+# Candidate outputs
+predictions.json
