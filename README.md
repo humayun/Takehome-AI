@@ -44,11 +44,15 @@ You'll work with real (anonymized) BOQ Excel files from construction projects. Y
 
 > **Note:** The BOQ data files are provided separately via Google Drive. Download them to `data/boq_files/` before starting.
 
-`data/boq_files/` contains several BOQ Excel workbooks. Each workbook may have:
+`data/boq_files/` contains several BOQ Excel workbooks from real construction projects. **The data is intentionally messy** - this reflects the reality of working with real-world construction documents. Each workbook may have:
 
 - Multiple sheets (tabs)
 - Various columns including descriptions, quantities, units, rates, etc.
 - Different formatting and structure per file
+- Inconsistent naming conventions
+- Missing or partial data in some rows
+
+Part of the challenge is figuring out how to handle these inconsistencies
 
 ### Key Columns
 
