@@ -15,7 +15,7 @@ This results in one prediction per QTY row, while preserving the full semantic m
 
 ---
 
-## Tag Normalization via LLM (Preprocessing Step)
+## Tag Classification / Normalization via LLM (Preprocessing Step)
 
 Before performing final BOQ item classification, I introduced an explicit **tag normalization stage** using `tags_classification.py`. This step converts noisy, project-specific TAG values into a **clean, canonical trade taxonomy** using an LLM under strict constraints.
 
