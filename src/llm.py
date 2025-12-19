@@ -1,53 +1,42 @@
 #!/usr/bin/env python3
-"""
-OpenAI Helper
-
-Basic usage of the OpenAI API.
-Set your API key in .env file or: export OPENAI_API_KEY="sk-..."
-"""
 from pathlib import Path
-
+from typing import List
 from dotenv import load_dotenv
 from openai import OpenAI
+import yaml
 
-# Load .env from project root
+
 load_dotenv(Path(__file__).parent.parent / ".env")
-
 client = OpenAI()
 
 
-def prompt(
-    input: str,
-    model: str = "gpt-4o-mini",
-    instructions: str = None,
-    reasoning: dict = None,
+def _load_prompt() -> dict:
+    prompt_path = Path(__file__).parent / "prompt.yml"
+    with open(prompt_path, "r") as f:
+        return yaml.safe_load(f)
+
+PROMPT_CONFIG = _load_prompt()
+
+def classify_trade(
+    description: str,
+    allowed_trades: List[str],
+    model: str = "gpt-4o-mini"
 ) -> str:
     """
-    Send a prompt to OpenAI and return the response.
-
-    Args:
-        input: The user input/prompt
-        model: Model to use (default: gpt-4o-mini)
-        instructions: System instructions for the model
-        reasoning: Reasoning config, e.g. {"effort": "low"}
-
-    Returns:
-        The model's response text
+    Classify a BOQ item description into a single trade.
     """
-    kwargs = {"model": model, "input": input}
-    if instructions:
-        kwargs["instructions"] = instructions
-    if reasoning:
-        kwargs["reasoning"] = reasoning
 
-    response = client.responses.create(**kwargs)
-    return response.output_text
+    system_prompt = PROMPT_CONFIG.get("system", "")
+    user_template = PROMPT_CONFIG.get("user_template", "")
 
+    user_prompt = user_template \
+        .replace("{{description}}", description.strip()) \
+        .replace("{{allowed_trades}}", ", ".join(allowed_trades))
 
-if __name__ == "__main__":
-    # Quick test
-    result = prompt(
-        input="What trade would install copper pipes in a building?",
-        instructions="You are a construction expert. Be concise.",
+    response = client.responses.create(
+        model=model,
+        instructions=system_prompt,
+        input=user_prompt
     )
-    print(result)
+
+    return response.output_text.strip()

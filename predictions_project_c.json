@@ -1,0 +1,947 @@
+[
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 1,
+    "item": "DESCRIPTION",
+    "predicted_tag": "UNMAPPED"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 6,
+    "item": "BOUNDARY A - METAL RAILING TO FRONT OF HOUSES | Boundary A - 600mm HIgh power coated galvanised mild steel railing to selected colour; posts set in concrete base | 600mm high",
+    "predicted_tag": "Facade"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 8,
+    "item": "BOUNDARY A - METAL RAILING TO FRONT OF HOUSES | Extra over the above for: | Ends - fair end of abuting walls etc",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 9,
+    "item": "BOUNDARY A - METAL RAILING TO FRONT OF HOUSES | Gates - 600mm opening, including latch lock and hold open bracket",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 16,
+    "item": "EXCAVATION | Sub Total | Excavation | Excavating foundation trenches; | depth not exceeding 2.00m (standard 600mm deep from reduced level)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 20,
+    "item": "EXCAVATION | Extra on excavation items for | Disposal | Excavated material | on site; in temporary spoil heaps up to 300m from location of excavation; including shaping as directed",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 21,
+    "item": "EXCAVATION | off site; to licensed disposal facility (proof of disposal to be provided to Gem upon request)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 23,
+    "item": "EXCAVATION | Keeping the surface of the site and excavations free of | surface water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 24,
+    "item": "EXCAVATION | ground water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 27,
+    "item": "EXCAVATION | Filling | Cut stone, SR21; depositing in layers maximum 150 thick; compacting; all hardcore shall conform with I.S. EN13242:2002 latest D.O.E. Guidance Documents | to sides of trenches; average thickness exceeding 250mm",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 31,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C205/25; vibrating; all as specified | Blinding - PROVISIONAL | poured on or against earth or unblinded hardcore; in trenches (50mm deep to foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 34,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C28/35; vibrating; all as specified | Foundations | poured on or against earth or unblinded hardcore; in trenches (300mm thick)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 38,
+    "item": "REINFORCEMENT | Reinforcement; B.S. 4483 as specified | Fabric, including spacers and chairs as required | reference A393, weighing 6.16 kg/m2; 450 laps to sides and ends; horizontal (To foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 42,
+    "item": "BRICKWORK/BLOCKWORK | Approved clay facing bricks to BS EN 771-1; 7.5N/mm2; size 215 x 102.5 x 65 (nominal); stretcher bond; bedded and jointed in Natural / coloured mortar; 10mm Bucket Handle joints, pointing as the work proceeds; all as per the manufacturer's instructions | Walls | 215 thick (FULL BRICK WALL)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 43,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier course to top of Wall type A (assumed standard brick, with no specials) - or similar type capping in precast concrete",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 45,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls | on 215mm brickwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 46,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier cours to top of Wall type A (assumed standard brick, with no specials)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 49,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions | Walls in trenches | 215 thick  - rising walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 51,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 54,
+    "item": "BRICKWORK/BLOCKWORK | Designed joints | Movement joints, incorporating 15mm thick compressible filler board and external silicone sealant to both sides | 215 thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 56,
+    "item": "BIN STORE ENCLOSURE | Roof Frame System to Bin Store; including zinc or similar covering; including lockable top wall or gate; to include slapper plate to wall, joist type roof; metal deck and all flashings; 1.80 long x 850 deep; hinged to allow opening for ease of access",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 58,
+    "item": "BIN STORE ENCLOSURE | Painted vertical timber palisade gated screen; round top finish | Gates; 900mm wide; hinged both sides; 1200mm high (per gate)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 60,
+    "item": "BIN STORE ENCLOSURE | Extra for | hinges",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 61,
+    "item": "BIN STORE ENCLOSURE | wrasp type lock and receiver",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 62,
+    "item": "BIN STORE ENCLOSURE | CONCRETE 1.80*.85 *.20",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 69,
+    "item": "EXCAVATION | Sub Total | Excavation | Excavating foundation trenches; | depth not exceeding 2.00m (standard 600mm deep from reduced level)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 73,
+    "item": "EXCAVATION | Extra on excavation items for | Disposal | Excavated material | on site; in temporary spoil heaps up to 300m from location of excavation; including shaping as directed",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 74,
+    "item": "EXCAVATION | off site; to licensed disposal facility (proof of disposal to be provided to Gem upon request)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 76,
+    "item": "EXCAVATION | Keeping the surface of the site and excavations free of | surface water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 77,
+    "item": "EXCAVATION | ground water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 80,
+    "item": "EXCAVATION | Filling | Cut stone, SR21; depositing in layers maximum 150 thick; compacting; all hardcore shall conform with I.S. EN13242:2002 latest D.O.E. Guidance Documents | to sides of trenches; average thickness exceeding 250mm",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 84,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C205/25; vibrating; all as specified | Blinding - PROVISIONAL | poured on or against earth or unblinded hardcore; in trenches (50mm deep to foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 87,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C28/35; vibrating; all as specified | Foundations | poured on or against earth or unblinded hardcore; in trenches (300mm thick)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 91,
+    "item": "REINFORCEMENT | Reinforcement; B.S. 4483 as specified | Fabric, including spacers and chairs as required | reference A393, weighing 6.16 kg/m2; 450 laps to sides and ends; horizontal (To foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 95,
+    "item": "BRICKWORK/BLOCKWORK | Approved clay facing bricks to BS EN 771-1; 7.5N/mm2; size 215 x 102.5 x 65 (nominal); stretcher bond; bedded and jointed in Natural / coloured mortar; 10mm Bucket Handle joints, pointing as the work proceeds; all as per the manufacturer's instructions | Walls | 215 thick (FULL BRICK WALL)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 96,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier cours to top of Wall type B (assumed standard brick, with no specials)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 98,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls | on 215mm brickwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 99,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier cours to top of Wall type B (assumed standard brick, with no specials)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 102,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions | Walls in trenches | 215 thick  - rising walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 104,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 107,
+    "item": "BRICKWORK/BLOCKWORK | Designed joints | Movement joints, incorporating 15mm thick compressible filler board and external silicone sealant to both sides | 215 thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 109,
+    "item": "BRICKWORK/BLOCKWORK | Roof Carcass to Bin Stores | Bearing Plate; 175 x 44 bolted to wall",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 110,
+    "item": "BRICKWORK/BLOCKWORK | Infill Joists",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 111,
+    "item": "BRICKWORK/BLOCKWORK | Fillet Rips to form falls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 112,
+    "item": "BRICKWORK/BLOCKWORK | Hangers",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 113,
+    "item": "BRICKWORK/BLOCKWORK | Secondary Metalwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 114,
+    "item": "BRICKWORK/BLOCKWORK | 18mm OBS Deck",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 115,
+    "item": "BRICKWORK/BLOCKWORK | 300mm 18mm OSB Fascia",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 117,
+    "item": "BRICKWORK/BLOCKWORK | Roof to Bin Stores- Un - Insulated Metal Roof to selected colour code; Prelalf zinc or similar | Metal Roof",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 118,
+    "item": "BRICKWORK/BLOCKWORK | Forming rebate for falls & gutter track",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 119,
+    "item": "BRICKWORK/BLOCKWORK | Metal Fascia",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 120,
+    "item": "BRICKWORK/BLOCKWORK | Metal Conter Flashing",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 121,
+    "item": "BRICKWORK/BLOCKWORK | Outlet formed in metal roof + downpipe extension",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 123,
+    "item": "BRICKWORK/BLOCKWORK | Timber Doors to Bin Store; including ironmongery; ledged, braced, framed and sheeted | 2.250 x 1.80m",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 125,
+    "item": "BRICKWORK/BLOCKWORK | Extra over above item for: | Cladding face of doors in metal cladding to match roof",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 126,
+    "item": "BRICKWORK/BLOCKWORK | CONCRETE FLOOR",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 133,
+    "item": "EXCAVATION | Sub Total | BOUNDARY D - 1 BRICK THICK WALL TO 2550mm high | Excavation | Excavating foundation trenches; | depth not exceeding 2.00m (standard 600mm deep from reduced level)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 137,
+    "item": "EXCAVATION | Extra on excavation items for | Disposal | Excavated material | on site; in temporary spoil heaps up to 300m from location of excavation; including shaping as directed",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 138,
+    "item": "EXCAVATION | off site; to licensed disposal facility (proof of disposal to be provided to Gem upon request)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 140,
+    "item": "EXCAVATION | Keeping the surface of the site and excavations free of | surface water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 141,
+    "item": "EXCAVATION | ground water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 144,
+    "item": "EXCAVATION | Filling | Cut stone, SR21; depositing in layers maximum 150 thick; compacting; all hardcore shall conform with I.S. EN13242:2002 latest D.O.E. Guidance Documents | to sides of trenches; average thickness exceeding 250mm",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 148,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C205/25; vibrating; all as specified | Blinding - PROVISIONAL | poured on or against earth or unblinded hardcore; in trenches (50mm deep to foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 151,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C28/35; vibrating; all as specified | Foundations | poured on or against earth or unblinded hardcore; in trenches (300mm thick)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 155,
+    "item": "REINFORCEMENT | Reinforcement; B.S. 4483 as specified | Fabric, including spacers and chairs as required | reference A393, weighing 6.16 kg/m2; 450 laps to sides and ends; horizontal (To foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 159,
+    "item": "BRICKWORK/BLOCKWORK | Approved clay facing bricks to BS EN 771-1; 7.5N/mm2; size 215 x 102.5 x 65 (nominal); stretcher bond; bedded and jointed in Natural / coloured mortar; 10mm Bucket Handle joints, pointing as the work proceeds; all as per the manufacturer's instructions | Walls | 215 thick (FULL BRICK WALL)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 160,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier cours to top of Wall type B (assumed standard brick, with no specials)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 162,
+    "item": "BRICKWORK/BLOCKWORK | 215 x 440 brick piers",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 164,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls | on 215mm brickwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 165,
+    "item": "BRICKWORK/BLOCKWORK | Extra; for soldier cours to top of Wall type B (assumed standard brick, with no specials)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 167,
+    "item": "BRICKWORK/BLOCKWORK | 215 x 440 brick piers",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 170,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions | Walls in trenches | 215 thick  - rising walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 172,
+    "item": "BRICKWORK/BLOCKWORK | 215mm thick - piers",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 174,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 175,
+    "item": "BRICKWORK/BLOCKWORK | 215mm thick - piers",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 178,
+    "item": "BRICKWORK/BLOCKWORK | Designed joints | Movement joints, incorporating 15mm thick compressible filler board and external silicone sealant to both sides | 215 thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 180,
+    "item": "BRICKWORK/BLOCKWORK | Timber Gates; Framed, Ledged, Braced and sheeted with TGV treated timbers; including latch lock; fixed to brickwork; | 1900 x 850mm wide",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 188,
+    "item": "EXCAVATION | Sub Total | Excavation | Excavating foundation trenches; | depth not exceeding 2.00m (standard 600mm deep from reduced level)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 192,
+    "item": "EXCAVATION | Extra on excavation items for | Disposal | Excavated material | on site; in temporary spoil heaps up to 300m from location of excavation; including shaping as directed",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 193,
+    "item": "EXCAVATION | off site; to licensed disposal facility (proof of disposal to be provided to Gem upon request)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 195,
+    "item": "EXCAVATION | Keeping the surface of the site and excavations free of | surface water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 196,
+    "item": "EXCAVATION | ground water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 199,
+    "item": "EXCAVATION | Filling | Selected Excavated Fill Material | to sides of trenches; average thickness exceeding 250mm",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 203,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C205/25; vibrating; all as specified | Blinding - PROVISIONAL | poured on or against earth or unblinded hardcore; in trenches (50mm deep to foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 206,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C28/35; vibrating; all as specified | Foundations | poured on or against earth or unblinded hardcore; in trenches (300mm thick)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 210,
+    "item": "REINFORCEMENT | Reinforcement; B.S. 4483 as specified | Fabric, including spacers and chairs as required | reference A393, weighing 6.16 kg/m2; 450 laps to sides and ends; horizontal (To foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 214,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions - POINTED ABOVE GROUND | Walls in trenches | 215 thick  - rising walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 216,
+    "item": "BRICKWORK/BLOCKWORK | 215 thick  - rising PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 218,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 219,
+    "item": "BRICKWORK/BLOCKWORK | on blockwork (215mm thick standard blocks) - ATTACHED PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 222,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions | Walls in trenches | 215 thick  -",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 223,
+    "item": "BRICKWORK/BLOCKWORK | 215 thick  - PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 225,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 226,
+    "item": "BRICKWORK/BLOCKWORK | on blockwork (215mm thick standard blocks) - PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 229,
+    "item": "BRICKWORK/BLOCKWORK | Designed joints | Movement joints, incorporating 15mm thick compressible filler board and external silicone sealant to both sides | 215 thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 232,
+    "item": "PRE CAST CONCRETE | Precast concrete smooth finished cappings; by killeshal or similar; including preformed drips; set on m4 mortar to wall | Wall Caps",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 233,
+    "item": "PRE CAST CONCRETE | Pier Caps",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 235,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | up to additional 300mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 237,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | 300 to 600mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 239,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | 600 to 900mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 241,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | 900 to 1200mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 249,
+    "item": "EXCAVATION | Sub Total | Excavation | Excavating foundation trenches; | depth not exceeding 2.00m (standard 600mm deep from reduced level)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 253,
+    "item": "EXCAVATION | Extra on excavation items for | Disposal | Excavated material | on site; in temporary spoil heaps up to 300m from location of excavation; including shaping as directed",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 254,
+    "item": "EXCAVATION | off site; to licensed disposal facility (proof of disposal to be provided to Gem upon request)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 256,
+    "item": "EXCAVATION | Keeping the surface of the site and excavations free of | surface water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 257,
+    "item": "EXCAVATION | ground water",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 260,
+    "item": "EXCAVATION | Filling | Selected Excavated Fill Material | to sides of trenches; average thickness exceeding 250mm",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 264,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C205/25; vibrating; all as specified | Blinding - PROVISIONAL | poured on or against earth or unblinded hardcore; in trenches (50mm deep to foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 267,
+    "item": "IN-SITU CONCRETE | Reinforced poured concrete; C28/35; vibrating; all as specified | Foundations | poured on or against earth or unblinded hardcore; in trenches (300mm thick)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 271,
+    "item": "REINFORCEMENT | Reinforcement; B.S. 4483 as specified | Fabric, including spacers and chairs as required | reference A393, weighing 6.16 kg/m2; 450 laps to sides and ends; horizontal (To foundations)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 275,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions - POINTED ABOVE GROUND | Walls in trenches | 215 thick  - rising walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 276,
+    "item": "BRICKWORK/BLOCKWORK | 215 thick  - rising PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 278,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 279,
+    "item": "BRICKWORK/BLOCKWORK | on blockwork (215mm thick standard blocks) - ATTACHED PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 282,
+    "item": "BRICKWORK/BLOCKWORK | Solid (no void) concrete blocks to comply with I.S EN 771-3:2011; 7.5N/mm2; bedded and jointed in gauged mortar; to be laid in accordance with manufacturers instructions | Walls in trenches ???? | 215 thick  -",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 283,
+    "item": "BRICKWORK/BLOCKWORK | 215 thick  - PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 285,
+    "item": "BRICKWORK/BLOCKWORK | Labours on walls in trenches | on blockwork (215mm thick standard blocks)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 286,
+    "item": "BRICKWORK/BLOCKWORK | on blockwork (215mm thick standard blocks) - PIERS",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 289,
+    "item": "BRICKWORK/BLOCKWORK | Designed joints | Movement joints, incorporating 15mm thick compressible filler board and external silicone sealant to both sides | 215 thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 292,
+    "item": "PRE CAST CONCRETE | Precast concrete smooth finished cappings; by killeshal or similar; including preformed drips; set on m4 mortar to wall | Wall Caps",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 295,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | Pier Caps | up to additional 300mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 297,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | 300 to 600mm depth of retention",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 299,
+    "item": "EXTRA OVER MASONRY 2000MM WALL FOR WALLS TO BE FORMED AS RETAINING WALLS | Sand Cement Render to masonry walls; Sand Cement in 3 coat system; scud, scratch and float | Walls",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 306,
+    "item": "FENCING | Sub Total | Composite item; Fencing | Approved fencing system; comprising of 2400 x 130 x 100 H posts, 1800mm above finish ground at 1900 centres; set in concrete bases; precast plinth kicker 1830 x 300 x 50 timber hit and miss panel; including 1 nr gravel board | 2000 high above finished ground; fixed complete",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 307,
+    "item": "FENCING | Extra over for timber cutting panels at ends",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 308,
+    "item": "FENCING | Extra over for gravel board to suit at ends",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 309,
+    "item": "FENCING | Extra over for  additional gravel boards at changing heights",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 310,
+    "item": "FENCING | Extra over for  additional H posts at ends, corners and changing heights",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 314,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Sub Total | Irfen\u00ae Flat Bar Railing are avaiable in various height options and made up of 50 x 8 or 50 x 10 MSF infills at maximum 100mm gap welded to front of 2 or 3 No 50 x 30 RHS horizontal rails. Supported on 80 x 40mm RHS and 100 x 50mm RHS or 100 x 55mm RSJ posts at maximum 2500mm post centres. Panel connected to fixing plate using Irfen\u00ae angle cleats and 10mm Irfen\u00ae anti vandal bolts and nuts.Finish: Galvanised & Powdercoated (Plasgalv) | 1800mm high; including stepped posts, inter posts, security fixings etc",
+    "predicted_tag": "Facade"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 315,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Extra Corner Posts",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 317,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | 1200mm high; including stepped posts, inter posts, security fixings etc",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 318,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Extra Corner Posts",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 320,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Extra over on 1200mm High Railing for Forming Extension on Standard slip form kerb to form barrier/crash barrier type detail",
+    "predicted_tag": "Facade"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 324,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Sub Total | Boundary I - 1.20 RETAINING - Assumed as Evo Geo or similar System",
+    "predicted_tag": "External Works"
+  },
+  {
+    "file": "project_c.xlsx",
+    "sheet": "Boundaries",
+    "row": 326,
+    "item": "BOUNDARY H - 1800MM FLAT BAR RAILING TO SELECTED COLOUR AROUND APARTMENT AREAS | Boundary J - 1.80 RETAINING",
+    "predicted_tag": "Structural Steel"
+  }
+]

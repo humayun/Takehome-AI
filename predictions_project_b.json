@@ -1,0 +1,1808 @@
+[
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 1,
+    "item": "DESCRIPTION",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 7,
+    "item": "EXCAVATION | Excavation | Excavation, commencing from reduced levels | foundation trenches; depth not exceeding 2.00m",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 9,
+    "item": "EXCAVATION | Disposal | water; surface",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 10,
+    "item": "EXCAVATION | water; ground",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 11,
+    "item": "EXCAVATION | excavated material; off site",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 14,
+    "item": "EXCAVATION | Crushed Rock; to grade T1; material in accordance with the Engineer's drawings and specifications; depositing and compacting in layers 150mm maximum thickness; as per Architect's and Engineer's drawings and specifications | Filling | backfilling to excavation; average thickness exceeding 250mm thick",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 15,
+    "item": "EXCAVATION | backfilling to excavation; average thickness exceeding 250mm thick (concrete wall)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 18,
+    "item": "EXCAVATION | Stone; T2 type filling; clean crushed stone; in accordance with SR21: 2014 Annex E, 2016 amendment; material in accordance with the Engineer's drawings and specifications; depositing and compacting in layers between 150mm - 225mm in thckness; as per Architect's and Engineer's drawings and specifications | Filling | to make up levels; average thickness not exceeding 250mm thick",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 21,
+    "item": "EXCAVATION | Blinding; T3 type filling; clean sand blinding; compacted; in accordance with Annex E of SR21:2014 (2016 amendments); as per Architect's and Engineer's drawings and specifications | Surface treatments | blinding filling; average thickness 50mm thick",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 26,
+    "item": "IN-SITU CONCRETE | Reinforced in-situ concrete; Grade C30/37 min strength; vibrated; design sulphate class DS-1 and ACEC class AC-1s; as per Architect's and Engineer's drawings and specifications | Strip Foundations | reinforced; 300mm thick",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 29,
+    "item": "IN-SITU CONCRETE | Reinforced in-situ concrete; Grade C30/37 min strength; to IS EN 206; vibrated; min cement content 280kg/m3; w/c ratio 0.6; exposure class XC2; as per Architect's and Engineer's drawings and specifications | Ground Bearing Slab | reinforced; 150mm thick",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 33,
+    "item": "REINFORCEMENT | Reinforcement fabric mesh to B.S. 4483; reference A393, weighing 6.16kg/m2; no allowance in measurement for laps; all in accordance with the Engineer's drawings and specification. | Fabric | horizontal",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 36,
+    "item": "REINFORCEMENT | Reinforcement fabric mesh to B.S. 4483; reference A252, weighing 3.95kg/m2; no allowance in measurement for laps; all in accordance with the Engineer's drawings and specification. | Fabric | horizontal",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 40,
+    "item": "SUNDRIES | Sundries on in-situ concrete | Surface finishes | power floating; ground bearing slab",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 44,
+    "item": "FORMWORK | Formwork generally | Sides of foundations | greater than 250mm but less than or equal to 500mm",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 48,
+    "item": "PRECAST CONCRETE | Contractor to include for Forming Typical service openings for all pop-ups, service opes, radon opes etc. as required; including Precast RC Lintel; 2no. 215x65mm; including reinforcement, bedding and fixing in position; min 100mm bearing end each side; formed in rising wall; to form void; as per Architect's and Engineer's drawings and specifications | Lintel | approx 900mm long",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 50,
+    "item": "PRECAST CONCRETE | Extra over for | lean mix concrete infill around pipe penetrations within void space; including formwork and the like; complete",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 55,
+    "item": "BLOCKWORK | Solid concrete blocks; half lap stretcher construction; bedded in cement and sand mortar; as per Architect's and Engineer's drawings and specifications | Walls in trenches | 100mm thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 56,
+    "item": "BLOCKWORK | 215mm thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 57,
+    "item": "BLOCKWORK | 550mm thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 59,
+    "item": "BLOCKWORK | Labours | on blockwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 63,
+    "item": "ANCILLARIES TO BRICKWORK/ BLOCKWORK | Forming cavities between new walls; Ancon or equal and approved stainless steel wall ties; horizontally to studs centres and vertically every 450mm; including for additional wall ties to reveals of opes; all in accordance with the Architect's drawings and specifications | Forming cavities | between new walls; 150mm wide",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 66,
+    "item": "ANCILLARIES TO BRICKWORK/ BLOCKWORK | Damp proof course:  multi-layer polythene or equal and approved; 150mm laps; fixed in accordance with manufacturer's instructions; no allowance in measurement for laps; as per Architect's and Engineer's drawings and specifications | Damp proof membrane | horizontal; exceeding 225mm wide",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 71,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Radon membrane; ref Necoflex Easi load DPC; Radon membrane laid in accordance with the Building Regulations laid on blinded hardcore; no allowance for measurement in laps, include for sealing around penetrations, all corners and the like; to be laid in strict accordance with the manufacturer's recommendations; as per Architect's and Engineer's drawings and specifications | Gas proofing | horizontal; exceeding 300mm wide",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 72,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | horizontal/vertical/sloped exceeding 300mm wide to walls",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 74,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Collars/top hats around pipe standards and the like | various diameters",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 77,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | GCP Preprufe cold applied self adhesive waterproofing membrane with and including Grace bituthene protection board as required or equal approved system, minimum 150mm overlap, to be installed in strict accordance with the manufacturers details and recommendations; including all bending and cutting to form external and internal corners; including all fixings, tapes and adhesives; no allowance in measurement for laps; include for sealing around all penetrations; including for certified sealing tapes, gun applied primers, strips, membranes, and barriers complete;  all in accordance with the manufacturer's written instructions and the Architect's and Engineer's details and specifications. | Tanking | Horizontal: exceeding 300mm wide (top of foundations)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 78,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Horizontal: exceeding 300mm wide (underside of foundations)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 79,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Horizontal: exceeding 300mm wide (underside of 1st floor slab)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 80,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Vertical: exceeding 300mm wide (side of foundations)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 81,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Vertical: exceeding 300mm wide (walls)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 84,
+    "item": "MASTIC ASPHALT AND WATER AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Sundries | Radon Sump; Monarflex Easi-Sump Radon Sump and associated pipework; 450 x 450mm rigid PVC chamber including 100mm diameter inlets and outlet; including all excavation and disposal and back filling as required including forming openings in internal rising walls for radon ventilation; to be installed in strict accordance with the Building Regulations. | radon sumps and the like",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 89,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | PIR Insulation Unilin Thin-R XT/CW floor insulation; or equal and approved rigid floor insulation; to achieve (0.022 W/mK) U-value; laid in accordance with the manufacturer's instructions; as per Architect's and Engineer's drawings and specifications | Insulation | thermal; 100mm thick; horizontal; exceeding 300mm wide",
+    "predicted_tag": "Flooring"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 90,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | 25mm thick Kooltherm K3 or Unilin XO/STR strip, or equal approved; vertical perimeter insulation (with min. resistance of 1.14 m2K/W)thermal; vertical; not exceeding 300mm wide; (to edges of concrete slabs perimeter of all rising blockwork walls)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 95,
+    "item": "BELOW GROUND | Foul and Surface Drainage pipes/fittings and all services complete under ground floor slab; include for bringing pipes outside the house through the external walls; include for all pipework for ESB, eircom, gas, oil, water, radon pipework, etc complete to service the refuse store; include for all fittings on pipework; (pipework around the refuse store measured elsewhere); include for excavation, disposal and backfilling over pipes with clause 808 hardcore material; as per Architect's and Engineer's drawings and specifications | Pipework | pipework for services under ground floor slab (for all units in this terrace)",
+    "predicted_tag": "Groundworks"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 101,
+    "item": "IN-SITU CONCRETE | Reinforced in-situ concrete; Grade  specifics in accordance with the Engineer's concrete designation and specification; as per the Engineer's requirements. | Walls | exceeding 150mm thick (retaining wall at ground floor)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 105,
+    "item": "REINFORCEMENT | Reinforcement bars, including links, shear reinforcement etc.; various diameter; bending of bars and scheduling is to conform to B.S. 4466 (1989); all bars to be labelled after bending; deformed high yield steel to BS 4449; cover to all reinforcement, links to be in accordance with clause 3.3.7, B.S. 8110 Part 1: 1985; minimum cover to all steel to be 50mm all faces; laps as engineers details; all in accordance with engineers drawings and specification (provisional) | Bars (Provisional) | straight or bent; not exceeding 12mm diameter",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 106,
+    "item": "REINFORCEMENT | straight or bent; 12 - 25mm diameter",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 107,
+    "item": "REINFORCEMENT | straight or bent; exceeding 25mm diameter",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 111,
+    "item": "FORMWORK | Formwork; in accordance with the Engineer's Specification. | Kickers | walls",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 113,
+    "item": "FORMWORK | Walls | vertical; height exceeding 4.00m",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 117,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | Killeshal precast concrete capping with granite aggregate finish or equal and approved; all in accordance with Architects Drawings & Specification | Copings | Precast concrete capping approx size; 615mm wide x thickness 100mm; feathered edge (patio wall)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 118,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | Precast concrete capping approx size; 615mm wide x thickness 100mm; feathered edge (roof parapet)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 121,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | Precast concrete cills; 100mm concrete cill; to Architect's approval; bedding in gauged mortar with minimum 150mm end bearing; (please note approximate opening dimension is for width of structural opening only, structural opening width does not include for minimum bearing dimensions at each end); include for all support angles required; all as per Engineers and Architects drawings and specifications | Cills | 1000mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 122,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 1600mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 123,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 1650mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 124,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 1750mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 125,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 2250mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 126,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 2300mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 127,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | 2500mm long (opening dimension)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 130,
+    "item": "PRECAST CONCRETE / COMPOSITE CONSTRUCTION / STONE FACED CONCRETE PANELS | Bearing pad; 215mm wide x 440mm long x 215mm deep; contractor to include for all bedding and pointing, temporary supports etc. required for a complete installation; all in accordance with Engineers Drawings & Specification | Like items; precast concrete padstones to receive structural steel beams | concrete bearing pad",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 135,
+    "item": "BRICKWORK | Brickwork; Red/brown colour; PC sum for supply only \u20ac1.00 per brick; dimensions:  214 x 102 x 65mm coloured bond: stretcher; durability design of brick; standard grey mortar mix: 1:1:6 cement:lime:sand, bond: half lap stretcher, joints: raked out bucket handle; recessed joint; including any special bricks required, vent bricks, weep holes and fittings, where required, cutting and building around obstructions, labours etc. as required to complete the brickwork structure; all in accordance with the Architect's drawings and specifications | Walls | 102mm thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 137,
+    "item": "BRICKWORK | Labours | on brickwork; generally",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 139,
+    "item": "BRICKWORK | Extra over on the above for surface features | Like items; feature soldier course brick (3 row high - 675mm high)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 140,
+    "item": "BRICKWORK | Like items; stepped / ribbed brickwork panels (2300mm high)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 143,
+    "item": "BRICKWORK | Brickwork; White Colour; PC sum for supply only of \u20ac1.00 per brick; dimensions:  214 x 102 x 65mm coloured bond: stretcher; durability design of brick; standard grey mortar mix: 1:1:6 cement:lime:sand, bond: half lap stretcher, joints: raked out bucket handle; recessed joint; including any special bricks required, vent bricks, weep holes and fittings, where required, cutting and building around obstructions, labours etc. as required to complete the brickwork structure; all in accordance with the Architect's drawings and specifications | Walls | 102mm thick",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 145,
+    "item": "BRICKWORK | Labours | on brickwork; generally",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 149,
+    "item": "BLOCKWORK | Solid concrete, loadbearing blockwork; stretcher bond; bedded in mortar; flush joint as work proceeds; including trimming blocks, engineering brick, soap bars to make up levels, special bricks and blocks, proprietary plastic perpend ventilators; weep holes and fittings, where required, cutting and building around obstructions, labours etc. as required to complete the blockwork structure; Contractor to include for and make allowance for supplying all test certificates; all in accordance with the Architect's and Engineer's details & specifications | Walls | 215mm thick; internal party wall (Party walls) - 13N/mm2",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 150,
+    "item": "BLOCKWORK | 215mm thick; inner leaf of external wall - 13N/mm2",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 151,
+    "item": "BLOCKWORK | 215mm thick; internal block wall  - 13N/mm2",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 152,
+    "item": "BLOCKWORK | 100mm thick; internal block  wall - 7.5N/mm2",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 154,
+    "item": "BLOCKWORK | Labours | on blockwork",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 158,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | Forming cavities between new walls; including 100mm thick PIR insulation; Unilin or equivalent; partial fill application thermal cavity insulation equal approved stainless steel wall ties; horizontally at 450mm centres and vertically every 450mm; including for additional wall ties to reveals of openings; all in accordance with the Architect's details and specifications | Forming cavities (including insulation) | between new walls; min 150mm wide cavity (external walls generally)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 159,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | between new walls; min 150mm wide cavity (RC wall & Inner leaf blockwork on Ground Floor)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 162,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | Closing cavities; Rockwool or SA cavity barrier or equal approved including reveal clips etc; including additional wall ties to openings where required; fixed in accordance with manufacturer's instructions; all in accordance with the Architect's details and specifications | Closing cavities | fixed in position at jambs of windows and doors; vertical",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 163,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | fixed in position at heads and cills of windows and doors; horizontal",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 166,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | Damp proof course; Visqueen Zedex CPT High performance DPC or equal and approved pitch polymer damp-proof course, black polythene 2000 gauge; 150mm laps; welded in accordance with manufacturer's instruction bedding in cement, lime and sand mortar; no allowance in measurement for laps; all in accordance with the Architect's drawings and specifications | Damp proof courses | not exceeding 225mm; vertical; to door and window jambs",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 167,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | cavity tray; girth 450mm; dressing under and behind cills",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 168,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | cavity tray; girth 600mm; stepped over cavity at doors and windows",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 171,
+    "item": "ANCILLARIES TO BRICKWORK / BLOCKWORK | Typical brickwork movement and contraction joint; required on external walls at desired centres; including flat wall ties at 225mm c/c vertically; 18mmm thick closed cell polyethylene sealed with mastic pointing to external leaf; Ancon stafix STF6 or equal and approved double triangle steel wall ties in every course at max. 225mm from each side of movement joints; including all cutting, fitting and fixings; all as per the Architect's & Engineer's instructions and specification | Designed joints | 100mm wide external brickwork leaf",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 176,
+    "item": "STRUCTURAL AND FIRST FIXINGS | Softwood; C18 Grade timber; wrought; specially selected and stress graded; pressure impregnate with an approved preservative; sawn unless otherwise stated; include for treated all ends and surfaces; including all fixings; all in accordance with the Engineer's and Architect's details and specifications. | Carcassing | walls and partitions; loose timbers required to brickwork/blockwork including treated timber cavity closing bearers and like items, etc; including all fixings",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 181,
+    "item": "STEELWORK | Lintel stainless steel support system; \" IG double leaf lintel\" or equal and approved; fixed back to structure (e/m); (please note approximate opening dimension is for width of structural opening only, structural opening width does NOT include for minimum bearing dimensions at each end); all in accordance with Engineers Drawings & Specification | Lintels | 900mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 182,
+    "item": "STEELWORK | 1000mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 183,
+    "item": "STEELWORK | 1100mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 184,
+    "item": "STEELWORK | 1600mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 185,
+    "item": "STEELWORK | 1650mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 186,
+    "item": "STEELWORK | 1750mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 187,
+    "item": "STEELWORK | 2250mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 188,
+    "item": "STEELWORK | 2300mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 189,
+    "item": "STEELWORK | 2500mm long (opening dimension)",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 192,
+    "item": "STEELWORK | Fabricated; weldable steel; Grade S355; hot rolled; all in accordance with the Structural Engineer's drawings & specification | Fabricated members | built up beam; member profile greater than 50-100kg/m",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 194,
+    "item": "STEELWORK | Extra over on the above for | fixing steel beams to concrete padstones; including all drilling and chemical anchor materials",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 199,
+    "item": "FIRESTOPPING | Rockwool or SA 60min fire rated cavity barrier fire stopping material compressed and fixed within cavity wall; including all fixings and sundry items; fire resistance rating in accordance with the Architect's specification; all in accordance with the manufacturers' instructions and with the Architect's details and specifications. | Fireproofing | fixed in position; horizontal; not exceeding 300mm wide (at junction of 1st,2nd & 3rd floors)",
+    "predicted_tag": "Fireproofing - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 200,
+    "item": "FIRESTOPPING | fixed in position; horizontal; not exceeding 300mm wide (at junction with flat roof)",
+    "predicted_tag": "Fireproofing - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 203,
+    "item": "FIRESTOPPING | Rockwool SP Firestop; closed state cavity barrier fire stopping material compressed and fixed within cavity wall; including all fixings and sundry items; fire resistance rating in accordance with the Architect's specification; all in accordance with the manufacturers' instructions and with the Architect's details and specifications. | Fireproofing | like items; fire barrier on party wall alignment; not exceeding 300mm; vertical",
+    "predicted_tag": "Fireproofing - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 204,
+    "item": "FIRESTOPPING | like items; fire barrier on party wall alignment; exceeding 300mm; horizontal",
+    "predicted_tag": "Fireproofing - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 209,
+    "item": "PAINTING | Fire protection to steelwork: all steel shall be in-tumescently painted in accordance with the Architect's specification and the Fire Consultants recommendations; fire protection: structural frames, beams and columns to achieve a minimum of 60-minutes fire resistance (load bearing capacity) in accordance with IS EN 1993-1-2:2005 (Eurocode 3) and \u2019Fire Protection of Structural Steel in Buildings\u2019 by the ASFPCM and Steel Construction Institute; preparation: remove oil and grease, loose or unsound coatings; Intumescent coating system by Nullifire or equivalent; application in strict accordance with the manufacturer's instructions; Contractor to include for all necessary touching up on site; all in accordance with the Architect's, details and specifications & the Fire Consultant's Fire Safety Certificate Application - Compliance Report, details and specification. | Structural steel; | general surfaces; >300mm wide; (beams)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 215,
+    "item": "IN-SITU CONCRETE | Reinforced insitu concrete; Grade C30/37; vibrated; to Engineers specification | Screeds | not exceeding 100mm thick; reinforced (structural screed - 75mm to 150mm hollowcore slab)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 219,
+    "item": "SUNDRIES | Note: Construction and day joints joints shall be located at the Contractor's discretion and shall be in accordance with the Engineers specifications. | Design joints | isolation joints; to Engineers Specification",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 220,
+    "item": "SUNDRIES | contraction joints; to Engineers Specification",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 221,
+    "item": "SUNDRIES | transverse joints; to Engineers Specification",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 223,
+    "item": "SUNDRIES | Surface finishes | powerfloating; in accordance with the Engineer's Specification (screeds)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 226,
+    "item": "SUNDRIES | Labours | Cutting chases; in structural screed | generally; width and depth at contractor discretion",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 228,
+    "item": "SUNDRIES | Cutting holes; in structural screed | forming opes in slab as required",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 232,
+    "item": "REINFORCEMENT (PROVISIONAL) | Reinforcement fabric mesh; one layer A393; weight 3.95kg/m2; minimum laps 400mm; no allowance in measurement for laps; all in accordance with Engineer's Specification | Fabric | horizontal",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 234,
+    "item": "REINFORCEMENT (PROVISIONAL) | Tying details | tying detail at side / end bearing; cast into screed as work proceeds; H16 peripheral ties and H12 hook bars at bars at 200 c/cs tied to mesh in structural screed; bent; all in accordance with the Engineers specification and instruction",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 238,
+    "item": "FORMWORK | Formwork; in accordance with the Engineers Specification | Edges of suspended slabs and landings | not exceeding 250mm high (to screeds)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 242,
+    "item": "PRECAST CONCRETE/COMPOSITE CONSTRUCTION/STONE FACED CONCRETE PANELS | Hollowcore precast concrete floor units by approved manufacturer; fixing as indicated with reinforcement; bedded and jointed in mortar; to receive average 75mm thick structural screed & mesh (measured elsewhere); loadings and weights to be incorporated by specialist manufacturer; including shear keys, all hoisting and placing in position, levelling, temporary propping, bedding ends, grouting etc; all ends filled with factory fitted stop end cores and concrete fill where indicated; factory formed recesses/slots for reinforcing where indicated; include for solid nibbed ends to hollowcores, where indicated, including proprietary angles, hangers, fittings and supports, where required; laid on and including mortar bed; grout and seal all unit junctions  internal ties running length to peripheral ties; include for all movement / designed joints; all to Engineer's details and performance specification; including for all sealing tapes, gun applied primers, strips, membranes, and barriers to achieve the required air tightness, complete; including all fixings and sundry items complete; all in accordance with the Architect's/Engineer's specification and drawings | Floor slabs | 150mm thick precast hollowcore units; horizontal; span 5.00 - 7.00m including all cutting and fitting (structural topping measured separately)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 244,
+    "item": "PRECAST CONCRETE/COMPOSITE CONSTRUCTION/STONE FACED CONCRETE PANELS | Sundries; forming holes, recesses and the like | 160mm diameter circular opes; in 150mm thick precast slabs; including all additional structural reinforcing required to form ope (Provisional)",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 247,
+    "item": "PRECAST CONCRETE/COMPOSITE CONSTRUCTION/STONE FACED CONCRETE PANELS | Precast concrete stairs by approved manufacturer; to comply with current Building Regulations; including hoisting and placing in position, levelling; temporary propping, bedding in sand and cement mortar to Engineer's approval; include for all reinforcement bars, tying in details and grouting to same; including anchored bearing angle to precast specialist design; fixing detail by specialist designer; all to Engineers specification and details and Architects drawing and specifications | Stair flight and landing | stair flight and landing; Flight 1 with landing; minimum 1100mm wide; total number of risers; 9; risers 175mm and going 280mm; including 200mm thick mid landing approx 1150mm x 1300mm; horizontal; including all cutting and fitting; including formation and infill of recess for bearing angle;; all in accordance with the Enginner and Architects drawings and specifications",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 248,
+    "item": "PRECAST CONCRETE/COMPOSITE CONSTRUCTION/STONE FACED CONCRETE PANELS | stair flight and landing; flight 2 minimum 1100mm wide; total number of risers; 9; risers 175mm and going 280mm; including all cutting and fitting; including formation and infill of recess for bearing angle;; all in accordance with the Enginner and Architects drawings and specifications",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 254,
+    "item": "NON-STRUCTURAL | External door complete with frame 'passiv Upvc\" or equal and approved to selected colour with obscure low-E, Argon filled double glazing or equal and approved; include for  threshold, weather seals and ironmongery (doorset) including letterbox with internal brush sleeves; refer to the Door and ironmongery schedules for dimensions and configurations; insulated sandwich uPVC composite entrance door and frame; Thermal Performance: Minimum U Value required by Services Consultant \u2013 1.30 W/m\u00b2K; include for obscure glazing where indicated; all glazing less than 800mm from FFL to be toughened safety glass in compliance with regulations; include all glazing to achieve required DB rating in accordance with window schedule/ sound insulation upgrade requirements all openings to be fitted with restrictors; all ironmongery to windows/doors as per Architect's specification; including approved high quality rain permanent mastic pointing to frame, reveals, heads, cills and drip cills etc; include for all trims, mastic seals; include for all fireproofing, battens, fitting of timberframe suppliers, supplied cavity barriers around all windows and doors prior to installation and include for necessary works to barriers after installation, include for secondary fixings and support angles as required; protection of the doors; provision of protective tape and removal of protective tape and cleaning down on completion; opening sections as per details; all as per the Architect's drawings, details, schedules and specifications. | Composite items; Doors | overall structural opening size 1000mm wide x 2400mm high; (Entrance Door on GF - Rear Elev)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 257,
+    "item": "NON-STRUCTURAL | Windows and doors; passive uPVC future proof windows or equal approved; heads and sills; fire and / or smoke rated opening windows; RAL 7015, Low-E argon filled double glazing to achieve minimum unit u-value of 1.30W/m2K; include for obscure glazing where indicated; all glazing less than 800mm from FFL and where indicated to be toughened safety glass in compliance with regulations; include all glazing to achieve required DB rating in accordance with window schedule/ sound insulation upgrade requirements; acoustic vents; include for built up mullions between glazing where indicated, complete to window supplier's details; all openings over 1400mm above ground floor level to be fitted with restrictors; all ironmongery to windows/doors as per Architect's specification; including letterbox with internal brush sleeves; including approved high quality polysulphide rain permanent mastic pointing to frame, reveals, heads, cills and drip cills etc; include for all trims, mastic seals; include for all fireproofing, include for necessary works to cavity closer & fire barriers after installation, include for secondary fixings that maybe required; protection of the windows and doors; provision of protective tape and removal of protective tape and cleaning down on completion; opening sections as per details; all as per the Architect's drawings, details, schedules and specifications. | Composite items; Doors and Screens | overall structural opening size 2200mm wide x 2400mm high; corner unit; (Entrance Door on GF - Front Elev)",
+    "predicted_tag": "Glazing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 258,
+    "item": "NON-STRUCTURAL | overall structural opening size 1600mm wide x 2400mm high; (Door and screen on GF - Rear Elev)",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 259,
+    "item": "NON-STRUCTURAL | overall structural opening size 2500mm wide x 2400mm high; (Door and screen on 1st floor - Rear Elev)",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 261,
+    "item": "NON-STRUCTURAL | Extra over on the above for the following | integrated structural corner post for Entrance Door on GF - Front Elevation",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 263,
+    "item": "NON-STRUCTURAL | Composite items; Windows | overall structural opening size 900mm wide x 1500mm high",
+    "predicted_tag": "Glazing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 264,
+    "item": "NON-STRUCTURAL | overall structural opening size 1600mm wide x 2300mm high",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 265,
+    "item": "NON-STRUCTURAL | overall structural opening size 2300mm wide x 2300mm high",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 272,
+    "item": "STRUCTURAL & FIRST FIXING | Floor joists by specialist; Posi joist @ maximum 400mm c/c; contractor design item; include for all additional loose carcassing and noggins/strongbacks to specialist suppliers details; including all fixings; all fitted on site by Contractor; all in accordance with the Architect's and Engineer's details and performance specifications. | Pre fabricated | like items; posi joists",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 273,
+    "item": "STRUCTURAL & FIRST FIXING | like items; timber firring to create falls/cross falls",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 276,
+    "item": "STRUCTURAL & FIRST FIXING | Softwood to B.S. 1186; B.S. 4978/S.R.11 1998; B.S. 4978 1973  white deal; C16 Grade timber; wrought; specially selected and stress graded; pressure impregnated with an approved preservative; sawn unless otherwise stated; include for application of addtional wood preservative, where required; include for all fixings; all in accordance with the Engineer's details and specifications. | Carcassing | joist strutting; 42 x 47mm (top chord restraint between joists)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 277,
+    "item": "STRUCTURAL & FIRST FIXING | bracing; 35 x 97mm; (backing for straps)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 278,
+    "item": "STRUCTURAL & FIRST FIXING | bracing; 35 x 145mm, including noggings at 400mm centres nailed to easi joist at top and bottom (strongback)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 279,
+    "item": "STRUCTURAL & FIRST FIXING | packers infilling between structural steel beams, overall beam length 3600mm; provide solid timber packers to back of hanger and steel web all in accordance with the Engineer's detail section 1 - 1 (beam support) drawing S - 0514",
+    "predicted_tag": "Structural Steel"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 280,
+    "item": "STRUCTURAL & FIRST FIXING | flat roofs; loose timbers required to roof structure and finishes including but not limited to: trimmers, bracing, supports, bridging, timber fillets, and like items, etc; including all fixings",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 284,
+    "item": "BOARDING AND SECOND FIXINGS | Plywood to B.S.1088 & 4079; fixed to timber joists (measured elsewhere); including all fixings; all in accordance with the Architect's and Engineers drawings and specification | Boarding & sheeting | floors; exceeding 300mm wide; 22mm thick",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 288,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Metal accessories to woodwork in mild steel; galvanised, including all fixings, all as per Architects and Engineers drawings and specifications | Accessories | straps & hangers; 30x5x1200mm strap at 1200mm c/c screwed into joists",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 289,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | straps and hangers; 'simpson' strong tie JHM masonry support joist hanger model number JHM 225/100; proprietary truss clip fixed to truss and masonry wall; fixed all in accordance with the manufacturer's recommendations",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 290,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | metal accessories to woodwork in galvanised mild steel joist hangers/shoes/all relevant fittings as specified by Posi-Joist Specialist Supplier; including all fixings.",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 296,
+    "item": "STRUCTURAL AND FIRST FIXINGS | Softwood to B.S. 1186; white deal; C16 Grade timber; wrought; specially selected and stress graded; pressure impregnated with an approved preservative; including all painting to ends and on-site application of wood preservative; sawn unless otherwise stated; all in accordance with the Engineer's and Architect's drawings and specifications | Carcassing | floors; 225 x 44mm; exceeding 5.00m in one piece",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 297,
+    "item": "STRUCTURAL AND FIRST FIXINGS | floors; 225 x 44mm; exceeding 5.00m in one piece (fixed to structural steel)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 298,
+    "item": "STRUCTURAL AND FIRST FIXINGS | bridging; 225mm x 44mm; including noggings at 1350mm centres nailed to joist at top and bottom",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 302,
+    "item": "BOARDING AND SECOND FIXINGS | OSB; fixed to timber backgrounds; including all fixings; all in accordance with the Architect's details and specification. | Boarding & sheeting | floors; area greater than 300mm wide; minimum 18mm thick",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 306,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Metal accessories to woodwork; galvanised steel; allow for overlap to minimum 3 nr. joists/bridging at 1200mm centres; including all associated fixings; all in accordance with Engineer's and Architect's drawings and specification | Accessories | straps; 30 x 5mm galvanised steel straps minimum 1000mm long",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 309,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Metal accessories to woodwork; galvanised steel; mild steel joist shoes fixed back to masonary surrounds;  including all associated fixings; all in accordance with Engineer's and Architect's drawings and specification | Accessories | shoes to receive 225mm x 44mm joist",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 317,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Paralon ARD/HS Granular surface modified bitumen warm roof system cap sheet fully bonded with 80mm and 150mm end laps; on and including top S/3 reinforced bitumen base sheet fully bonded with 100mm side and end laps, on 160mm PIR insulation (measured elsewhere), including parabase 3KG bitumen reinforced vapour barrier bonded to proimer deck with 100mm side and end laps, contractor to include for all accessories, edge trims, pipe collars, angle fillets, vapour control layers, seals, services penetration protection, fixings, drainage system, cover guards in order to provide full compliance with specification; incorporating insulated angle fillets at upstands and kerbs; Include for all drainage systems complete; insurance backed guarantee, all in accordance with the Engineers &  Architect's drawings and specification | Roof coverings | horizontal; exceeding 300mm wide",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 318,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | horizontal; not exceeding 300mm wide",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 319,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | vertical; exceeding 300mm (parapet upstand)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 322,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Flashing; Code 5 lead flashing treated as per manufacturers requirements; fixing with lead fixing clips; include for all cutting, packing, building into and fixing into position where required; insure joints and laps; all in accordance with the Architects details | Flashing; parapet wall | girth; 150 - 300mm; stepped",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 327,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Paratherm T 160mm PIR torchable roof insulation board complete with 50mm perlite reaboard angle fillets, mechanically attached, butt jointed and staggered; fixed in accordance with manufacturer\u2019s recommendations, incorporating insulated angle fillets at upstands and kerbs;  all in accordance with Architect's drawings and specification | Insulation | thermal; min 160mm thick; horizontal",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 328,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 100mm thick; horizontal (forming perimeter insulated gutter)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 329,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 50mm thick; vertical (min 150mm high)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 334,
+    "item": "DRAINAGE ABOVE GROUND | PVC downpipe: 100mm; RAL; 7015; including standard brackets fixed to blockwork/brickwork backgrounds with approved fixings; approved jointing in the running length; all in accordance with the Architect's details and specifications. | Pipes | round profile; surface fixed to brickwork/blockwork backgrounds with approved pipe clips; vertical",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 336,
+    "item": "DRAINAGE ABOVE GROUND | Extra over downpipes on which they occur: | fittings and the like; swan-neck projections",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 337,
+    "item": "DRAINAGE ABOVE GROUND | fittings and the like; shoes",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 340,
+    "item": "DRAINAGE ABOVE GROUND | Hopper head; fixed to external walls including all brackets, clips and fixings required; jointed to manufacturers instructions with silicone sealant all in accordance with the Architect's details and specifications | Hopper head | Hopper head",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 347,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Paralon ARD/HS Granular surface modified bitumen warm roof system cap sheet fully bonded with 80mm and 150mm end laps; on and including top S/3 reinforced bitumen base sheet fully bonded with 100mm side and end laps, on 160mm PIR insulation (measured elsewhere), including parabase 3KG bitumen reinforced vapour barrier bonded to proimer deck with 100mm side and end laps, contractor to include for all accessories, edge trims, pipe collars, angle fillets, vapour control layers, seals, services penetration protection, fixings, drainage system, cover guards in order to provide full compliance with specification; incorporating insulated angle fillets at upstands and kerbs; Include for all drainage systems complete; insurance backed guarantee, all in accordance with the Engineers &  Architect's drawings and specification | Roof coverings | horizontal; exceeding 300mm wide",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 348,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | vertical; not exceeding 300mm (approx 350mm high)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 351,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Flashing; Code 5 lead flashing treated as per manufacturers requirements; fixing with lead fixing clips; include for all cutting, packing, building into and fixing into position where required; insure joints and laps; all in accordance with the Architects details | Flashing; parapet wall | girth; 150 - 300mm; stepped",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 356,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Paratherm T 160mm PIR torchable roof insulation board complete with 50mm perlite reaboard angle fillets, mechanically attached, butt jointed and staggered; fixed in accordance with manufacturer\u2019s recommendations, incorporating insulated angle fillets at upstands and kerbs;  all in accordance with Architect's drawings and specification | Insulation | thermal; min 160mm thick; horizontal",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 357,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 100mm thick; horizontal (forming perimeter insulated gutter)",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 358,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 50mm thick; vertical (min 150mm high)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 363,
+    "item": "DRAINAGE ABOVE GROUND | PVC downpipe: 100mm; RAL; 7015; including standard brackets fixed to blockwork/brickwork backgrounds with approved fixings; approved jointing in the running length; all in accordance with the Architect's details and specifications. | Pipes | round profile; surface fixed to brickwork/blockwork backgrounds with approved pipe clips; vertical",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 365,
+    "item": "DRAINAGE ABOVE GROUND | Extra over downpipes on which they occur: | fittings and the like; swan-neck projections",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 366,
+    "item": "DRAINAGE ABOVE GROUND | fittings and the like; shoes",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 369,
+    "item": "DRAINAGE ABOVE GROUND | Hopper head; fixed to external walls including all brackets, clips and fixings required; jointed to manufacturers instructions with silicone sealant all in accordance with the Architect's details and specifications | Hopper head | Hopper head",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 375,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Paralon ARD/HS Granular surface modified bitumen warm roof system cap sheet fully bonded with 80mm and 150mm end laps; on and including top S/3 reinforced bitumen base sheet fully bonded with 100mm side and end laps, on 160mm PIR insulation (measured elsewhere), including parabase 3KG bitumen reinforced vapour barrier bonded to proimer deck with 100mm side and end laps, contractor to include for all accessories, edge trims, pipe collars, angle fillets, vapour control layers, seals, services penetration protection, fixings, drainage system, cover guards in order to provide full compliance with specification; incorporating insulated angle fillets at upstands and kerbs; Include for all drainage systems complete; insurance backed guarantee, all in accordance with the Engineers &  Architect's drawings and specification | Roof coverings | horizontal; exceeding 300mm wide",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 376,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | vertical; exceeding 300mm (approx 350mm high)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 379,
+    "item": "MASTIC ASPHALT, WATERPROOF & GAS PROOF NON - METAL FLEXIBLE SHEET COVERINGS | Flashing; Code 5 lead flashing treated as per manufacturers requirements; fixing with lead fixing clips; include for all cutting, packing, building into and fixing into position where required; insure joints and laps; all in accordance with the Architects details | Flashing; parapet wall | girth; 150 - 300mm; stepped",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 384,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | Paratherm T 160mm PIR torchable roof insulation board complete with 50mm perlite reaboard angle fillets, mechanically attached, butt jointed and staggered; fixed in accordance with manufacturer\u2019s recommendations, incorporating insulated angle fillets at upstands and kerbs;  all in accordance with Architect's drawings and specification | Insulation | thermal; min 160mm thick; horizontal",
+    "predicted_tag": "Roofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 385,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 100mm thick; horizontal (forming perimeter insulated gutter)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 386,
+    "item": "IRONMONGERY, ACCESSORIES AND SUNDRIES | thermal; min 50mm thick; vertical (min 150mm high)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 391,
+    "item": "DRAINAGE ABOVE GROUND | PVC downpipe: 100mm; RAL; 7015; including standard brackets fixed to blockwork/brickwork backgrounds with approved fixings; approved jointing in the running length; all in accordance with the Architect's details and specifications. | Pipes | round profile; surface fixed to brickwork/blockwork backgrounds with approved pipe clips; vertical",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 393,
+    "item": "DRAINAGE ABOVE GROUND | Extra over downpipes on which they occur: | fittings and the like; swan-neck projections",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 394,
+    "item": "DRAINAGE ABOVE GROUND | fittings and the like; shoes",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 397,
+    "item": "DRAINAGE ABOVE GROUND | Hopper head; fixed to external walls including all brackets, clips and fixings required; jointed to manufacturers instructions with silicone sealant all in accordance with the Architect's details and specifications | Hopper head | Hopper head",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 402,
+    "item": "IN SITU SURFACE PAVINGS | Natural classic flag paving 400 x 400 x 40mm laid on and including paving pedestal support system, contractor to include for all cutting and working around obstructions, waste, fitted strictly in accordance with manufacturers recommendation and all as per the Architects drawings and specifications | Pavings | 400 x 400 x 50mm thick; laid to falls",
+    "predicted_tag": "Landscaping"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 408,
+    "item": "NON-STRUCTURAL | Polyester Powder coated balustrade with stainless steel handrail; RAL TBC.; min 1200mm high; comprising of 40 x 12mm PPC aluminium flat vertical infill bars at 100mm c/c; all to specialists details; all in accordance with Architect's Drawing and specification | Composite items | railings; balustrade and handrail panel; overall dimensions 1150mm high",
+    "predicted_tag": "Facade"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 414,
+    "item": "IN-SITU FINISHES | Monocouche render finish; Indicative product: \"weberpral monocouche scraped system (weberpral D)\" by Saint-Gobain Weber or equal and approved; to include but not be limited beads installed/bonded using Monocouche XF and / or MonoBase X, 4mm layer of MonoBase XF applied over the entire substrate between the beads; Finish: scraped; colour: off white; contractor to include for all preparatory works to substrate; include for all associated beads: angle, stop, movement beads and compatible flexible sealant; required; include for any carcassing, expanded metal mesh/backing board and fixings required to form reveals; all in accordance with manufacturer's instructions and recommendations. | Walls | exceeding 300mm wide (back of parapet walls)",
+    "predicted_tag": "Facade"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 420,
+    "item": "IRONMONGERY, ACCESSORIES & SUNDRIES | Knauff Insulation; 400mm rockwool wool insulation; include for returning insulation along external walls at eaves all in accordance with the Architect's details and specification | Insulation | thermal; 400mm thick; main attic",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 422,
+    "item": "IRONMONGERY, ACCESSORIES & SUNDRIES | Soffit insulation; Moy isover space saver insulation in ceiling void; minimum 100mm thick, fitted as per manufacturers instructions, all in accordance with the Architect's drawings and specifications | thermal; 120mm thick; underside of terrace slab",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 423,
+    "item": "IRONMONGERY, ACCESSORIES & SUNDRIES | thermal; 120mm thick; underside of floor slab",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 424,
+    "item": "IRONMONGERY, ACCESSORIES & SUNDRIES | thermal; 120mm thick; vertical at patio upstand",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 429,
+    "item": "MASTIC, ASPHALT, WATERPROOF AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Approved airtightness tape: air-tight sealing tape; installed as per manufacturers recommendations and Architect's drawings and specification | Airtighness | horizontal / Vertical; (opening reveals)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 430,
+    "item": "MASTIC, ASPHALT, WATERPROOF AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | horizontal; (perimeter of floor slab on all levels)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 433,
+    "item": "MASTIC, ASPHALT, WATERPROOF AND GAS PROOF NON-METAL FLEXIBLE SHEET COVERINGS | Approved; vapour control layer; in accordance with the manufacturers details; all in accordance with the Architects drawings and specification | Airtightness | horizontal; (above ceilings at first floor and third floor)",
+    "predicted_tag": "Waterproofing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 438,
+    "item": "IN SITU FINISHES | Plaster; to solid blockwork base; 15mm spray applied scratch coat; as per the manufacturers instructions; all in accordance with the Architect's specifications | Walls | not exceeding 300mm wide; (reveals)",
+    "predicted_tag": "Masonry"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 439,
+    "item": "IN SITU FINISHES | exceeding 300mm wide",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 442,
+    "item": "IN SITU FINISHES | Plaster to plasterboard base; skim coat of 'Gyproc' or equal and approved approved hardwall plaster; 2-3mm thick; single coat; steel trowelled to smooth finish; including all preparation, scrim tape, mini mesh angle beads and fixings; including making good around obstructions. all as per manufacturer's instructions and Architect's details and specification | Walls | not exceeding 300mm wide; (reveals)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 443,
+    "item": "IN SITU FINISHES | exceeding 300mm wide",
+    "predicted_tag": "Concrete + Formwork"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 445,
+    "item": "IN SITU FINISHES | Ceilings | exceeding 300mm wide",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 449,
+    "item": "BOARD FINISHES | 'Gyproc' plasterboard slabs; single layer consisting of 12.5mm thick board; on and including top hat / timber battens to create service void; joints staggered; screw fixed to timber backgrounds with and including all fixings as recommended by the manufacturer; including tapered edges; including all accessories: angle beads and stop beads, fixings and sundry items; include for forming all openings and making good around obstructions; all as per the manufacturer's instructions and Architect's details and specification | Walls | exceeding 300mm wide; to blockwork walls",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 450,
+    "item": "BOARD FINISHES | not exceeding 300mm wide; (reveals)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 452,
+    "item": "BOARD FINISHES | Extra over on the above items for: | moisture resistant plasterboard; exceeding 300mm wide; (walls)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 454,
+    "item": "BOARD FINISHES | Labours | making good or cutting around obstructions; girth not exceeding 300mm",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 457,
+    "item": "BOARD FINISHES | 'Gyproc Fireline' plasterboard slabs; 1nr layer consisting of 15mm thick board; to provide 60m fire rating to steel beam encasement joints staggered; screw fixed to timber backgrounds with and including all fixings as recommended by the manufacturer; including tapered edges; including all accessories: angle beads and stop beads, fixings and sundry items; include for forming all openings and making good around obstructions; all as per the manufacturer's instructions and Architect's details and specification | Ceilings | exceeding 300mm wide (2nd floor)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 459,
+    "item": "BOARD FINISHES | Extra over on the above items for: | moisture resistant plasterboard; exceeding 300mm wide",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 461,
+    "item": "BOARD FINISHES | Labours | making good or cutting around obstructions; girth not exceeding 300mm",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 464,
+    "item": "BOARD FINISHES | 'Gyproc' plasterboard slabs; 2nr layers consisting of 12.5mm thick board; joints staggered; screw fixed to timber backgrounds with and including all fixings as recommended by the manufacturer; including tapered edges; including all accessories: angle beads and stop beads, fixings and sundry items; include for forming all openings and making good around obstructions; all as per the manufacturer's instructions and Architect's details and specification | Ceilings | exceeding 300mm wide (3rd floor)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 466,
+    "item": "BOARD FINISHES | Extra over on the above items for: | moisture resistant plasterboard; exceeding 300mm wide",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 468,
+    "item": "BOARD FINISHES | Labours | making good or cutting around obstructions; girth not exceeding 300mm",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 471,
+    "item": "BOARD FINISHES | 'Gyproc' plasterboard slabs; single layer consisting of 12.5mm thick board; on and including top hat / timber batten grounds; joints staggered; screw fixed to timber backgrounds with and including all fixings as recommended by the manufacturer; including tapered edges; including all accessories: angle beads and stop beads, fixings and sundry items; include for forming all openings and making good around obstructions; all as per the manufacturer's instructions and Architect's details and specification | Ceilings | staircase areas (soffit of precast stairs)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 473,
+    "item": "BOARD FINISHES | Landings | underisde of precast stairs",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 475,
+    "item": "BOARD FINISHES | Strings | girth 150 to 300mm",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 479,
+    "item": "STUD PARTITIONS | Internal stud partitions; one layer of 12.5mm gypsum wall board to each side; 75mm C stud frame at 600mm cantres; Gyproc joint filler to acoustic  Gyproc sealant bead to perimeter of framework; proprietary compressible insulating strip recommended at all junctions of all partitions; skim finish (measured/ elsewhere) to both sides; all gaps around service penetration to be filled with proprietary sealant compound to achieve sound reduction performance specified; all openings for ducts and pipes greater than 50mm dia. to be framed; including all angles, intersections and abutments to other finishes;  installed as per manufacturer's recommendation; all as per Architect's drawings and specifications | Partition walls | 2850mm high (Ground, 1st & 2nd Floor)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 480,
+    "item": "STUD PARTITIONS | 2800mm high (3rd floor)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 482,
+    "item": "STUD PARTITIONS | Extra over on the above items for: | upgrade boards to achieve 30minute fire rating",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 483,
+    "item": "STUD PARTITIONS | forming openings; doors; approx 900mm x 2100mm",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 484,
+    "item": "STUD PARTITIONS | moisture resistant plasterboard; exceeding 300mm wide; (walls)",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 487,
+    "item": "STUD PARTITIONS | Surrounds to soil vent pipes/ foul pipes/ rainwater pipes; 48mm c studs; 2 nr layers of 12.5mm plasterboard; including Isover or equal and approved unfaced mineral wool; plasterboard taped jointed and skimmed; include for forming angles, etc. leave ready for paint finish; to all pipes as mentioned within the house; all in accordance with the Architect's drawings and specifications | Partitions | surrounds to soil vent pipes / foul pipes / rainwater pipes; girth approx 500 - 1000mm (1 bend); height 2850mm",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 488,
+    "item": "STUD PARTITIONS | surrounds to soil vent pipes / foul pipes / rainwater pipes; girth approx 500 (1 bend); height 2850mm",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 492,
+    "item": "SUSPENDED CEILINGS | MF suspended ceiling system; plasterboard slabs; single layer consisting of 1 nr. 12.5mm thick gypsum ceiling board; with MF strap hangers and soffit cleats fixed to concrete; including primary grid at required centres, secondary grid at required centres and hangers at required centres; including approved jointing tape; Gyproc filler at all edges; tapered edges; including all firestopping at gaps, junctions, service penetrations and perimeter with approved sealant; include for all angle beads and necessary stop beads; all as per the manufacturer's instructions and the Architect's drawings and specifications | Ceilings (Ground and 1st floor) | depth of suspension; exceeding 150mm but not exceeding 500mm deep",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 494,
+    "item": "SUSPENDED CEILINGS | Extra over on the above for | moisture resistant plasterboard",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 496,
+    "item": "SUSPENDED CEILINGS | Labours | making good or cutting around obstructions; girth not exceeding 300mm",
+    "predicted_tag": "Drywall / Partitions"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 500,
+    "item": "GENERALLY | Additional taping of windows, pipe pop-outs in, using tapes and other materials approved by the; Installation to be strictly in accordance with Manufacturer's recommendations to achieve Air Tightness standard as required by Building Regulations; including air tight sealant, air tight roll; the Contractor is responsible to ensure the correct installation throughout all dwellings of the Air Tightness system in order to ensure strict compliance with the requirements of the Building Regulations and tests to demonstrate the required airtightness levels; all in accordance with the Architect's details and specifications. | Sundries | like items; completion of all airtightness seals",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 501,
+    "item": "GENERALLY | like items; air tightness test prior to decoration",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 507,
+    "item": "STRUCTURAL AND FIRST FIXINGS | Softwood; C18 Grade timber; wrought; specially selected and stress graded; pressure impregnated with an approved preservative; sawn unless otherwise stated; include for treated all ends and surfaces; including all fixings; all in accordance with the Engineer's and Architect's details and specifications. | Carcassing | first fixings; loose timbers required to carpentry including bearers, grounds and like items, etc; including all fixings",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 511,
+    "item": "BOARDING & SECOND FIXING | Supply and fix MDF skirting/ architrave/ window boards; include for fixing to timber backgrounds with and including approved fixings; include for all grounds where required; include for all plugging, screwing, countersinking & flush pelleting; profile as per Architect's details; all in accordance with the Architect's details and specifications | Second fixing | skirting; 119mm x 20mm; shallow chamfer chamfered 10mm thick",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 512,
+    "item": "BOARDING & SECOND FIXING | skirting; 119mm x 20mm; shallow chamfer chamfered 10mm thick (cut to treads and risers)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 513,
+    "item": "BOARDING & SECOND FIXING | architraves; 69mm x 20mm; shallow chamfer chamfered 10mm thick",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 514,
+    "item": "BOARDING & SECOND FIXING | windowboards; 18mm thick; square edge with 3mm pencil edged",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 517,
+    "item": "BOARDING & SECOND FIXING | Supply and fix white oak handrail; 50mm wide x 50mm high/ 70mm x 55mm high; profiled square with eased edges; include for fixing to masonry/ timber backgrounds with and including approved fixings; include for handrail brackets as required fixed at 1metre spacings; Proline hardware; Model; HRB; projection; 85mm to allow 50mm handrail clearance; finish to be brushed stainless steel/aluminium; include for all grounds where required; include for all plugging, screwing, countersinking & flush pelleting; profile as per Architect's details; all in accordance with the Architect's details and specifications | Second fixing | handrail; horizontal",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 518,
+    "item": "BOARDING & SECOND FIXING | handrail; raking",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 522,
+    "item": "COMPOSITE ITEMS: DOORS (NON FIRE RATED) | Supply and fix pre-hung doorsets complete; Carroll joinery; white primed 'Calgary Lineal' door or equal and approved; horizontal v-groove lines to produce a soft panel effect; 44mm thick; including all ironmongery but not limited to: locks, hinges, lever on rose; wc lock, toilet turn, door closers, sashlocks, flush bolts, door stops, rebated door stops where required, etc; door: white primed; white deal frame: to suit door thickness and size, rebated and primed; including saddle boards where required; including all plugging, screwing, countersinking & flush pelleting fixings and fittings; all in accordance with the Architect's details and specifications. | Door and associated frame set; (pre-hung door including ironmongery) | single door set; overall structural opening size 900mm wide x 2100mm high",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 526,
+    "item": "COMPOSITE ITEMS: DOORS (30MIN FIRE RATED) | Supply and fix pre-hung doorsets complete; Carroll joinery; white primed 'Calgary Lineal' door or equal and approved; horizontal v-groove lines to produce a soft panel effect; including all ironmongery but not limited to: self closing device; locks, hinges, lever on rose; wc lock, toilet turn, door closers, sashlocks, flush bolts, door stops, rebated door stops where required, etc; door: white primed; white deal frame: to suit door thickness and size, rebated and primed; including saddle boards where required; including all plugging, screwing, countersinking & flush pelleting fixings and fittings; all in accordance with the Architect's details and specifications. | Door and associated frame set; (pre-hung door including ironmongery) | single door set; overall structural opening size 900mm wide x 2100mm high",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 530,
+    "item": "COMPOSITE ITEMS: STAIRS | Stairs and balustrading complete: including handrails & newel posts complete to comply with current Building Regulations; threads: bull nose edge, 25mm thick, red deal; pre-finished: risers: moisture resistant plywood, 25mm thick, painted; string: red deal, 44mm thick, painted, rebated; newels: whte oak, straight edge; 91mm x 91mm x 1250mm, paint grade primed for painted finish; guarding / balustrades: spindles, square, 41mm x 41mm, painted at 80mm centres; handrail: white oak, 65mm wide x 55mm, square corner with pencil round edge; painted finish, fixed to and including 40 x 50mm painted rail with rebate detail; balustrade and newel posts with pencil round edges; all works to be fixed to stringer/landing; include for horizontal balustrading and handrails at floor landings; including all plugging, screwing, steel dowels, countersinking & flush pelleting fixings and fittings; all in accordance with the Architect's drawings and specifications | Stairs and balustrades; (complete including associated handrail and newel posts) | Stairs and balustrades and handrails complete; Ground to First floor (U- shaped staircase)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 531,
+    "item": "COMPOSITE ITEMS: STAIRS | Stairs and balustrades and handrails complete; First to second floor (single straight flight staircase)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 535,
+    "item": "COMPOSITE ITEMS: FRAMING | Softwood timber stud and framing; Contractor designed: include for studs comprising head and floor channels, vertical studs and noggins as necessary; include for boarding and fixing around sanitaryware/appliances; include for 18mm lacquered MDF timber facing to form panels and bases where required including all fixings and supports as required; include for all access panels where required; including counter tops to client selection; complete including all fittings and fixings; all as per the Architect's details and specification. | Like item: framing and sheeting | forming bath panel; 1700mm long x 570mm high",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 537,
+    "item": "COMPOSITE ITEMS: FRAMING | forming WC cistern / sink concealment panel; 900 - 1500mm long x 1200mm high",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 543,
+    "item": "PAINTING | Paint to internal walls and ceilings; 'Fleetwood' general matt or equal and approved; colour: RAL 9010; Contractor should allow for 3nr. different colours per unit; prepare surfaces to receive new paint finish; skimmed plasterboard; 1nr undercoat and 2nr finishing coats; internal; all in accordance with the Architect's drawings and specification | Walls | not exceeding 300mm wide; (reveals)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 544,
+    "item": "PAINTING | exceeding 300mm wide",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 546,
+    "item": "PAINTING | Ceilings | exceeding 300mm wide; horizontal & sloped",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 549,
+    "item": "PAINTING | Paint;\u00a0 'Fleetwood' Trade Hi Opacity Satinwood or equal and approved; prepare and apply 1nr undercoat, 2nr finishing coats; include for all preparation and sanding between coats; to Red Deal and MDF timber bases; including all other additional sundries required in the preparation and completion of the finish; to selected colour; all as per Architect's drawings and specification. | General surfaces | Stairs and balustrades and handrails complete; Ground to First floor (U- shaped staircase)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 550,
+    "item": "PAINTING | Stairs and balustrades and handrails complete; First to second floor (single straight flight staircase)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 551,
+    "item": "PAINTING | exceeding 300mm wide; (doors)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 553,
+    "item": "PAINTING | Second fixings | not exceeding 300mm girth; (skirtings)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 554,
+    "item": "PAINTING | not exceeding 300mm girth (frames and architrave)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 555,
+    "item": "PAINTING | not exceeding 300mm girth; (windowboards)",
+    "predicted_tag": "Painting"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 561,
+    "item": "FINISHINGS: FLEXIBLE SHEET FINISHES | Acoustic underlay; min 4.5mm thick; soundlay resillient mat or equal and approved, fixing with adhesive to powerfloated concrete finish; butt joints jointing and fixing in accordance with manufacturer's instructions prior to fixing of any stud walls begin built; all in accordance with the Architect's details and specification | Floors | exceeding 300mm wide",
+    "predicted_tag": "Flooring"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 567,
+    "item": "TILE SLAB AND MOSAIC FINISHES | PC SUM for supply of Tiles only \u20ac50 per M2, contractor to include for fitting tiles, supplying adhesive, grout, trims etc & profit and waste outside the PC Sum amount; fixing with approved waterproof adhesive in accordance with manufacturer's instructions; butt joints; Ardex or equal and approved adhesive and waterproof grout; pattern to be selected; including fitting of all necessary trims; all in accordance with the Architect's details and specifications | Walls | not exceeding; 300mm wide; (top of vanity unit / sink / WC unit)",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 568,
+    "item": "TILE SLAB AND MOSAIC FINISHES | exceeding 300mm wide",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 569,
+    "item": "TILE SLAB AND MOSAIC FINISHES | exceeding 300mm wide (kitchen splashback)",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 571,
+    "item": "TILE SLAB AND MOSAIC FINISHES | Extra over on the above for: | silicone / mastic pointed tile to act as access hatch if required (baths and vanity shelves)",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 574,
+    "item": "TILE SLAB AND MOSAIC FINISHES | PC SUM for supply of Tiles only \u20ac50 per M2, contractor to include for fitting tiles, supplying adhesive, grout, trims etc & profit and waste outside the PC Sum amount; fixing with approved waterproof adhesive in accordance with manufacturer's instructions; butt joints; Ardex or equal and approved adhesive and waterproof grout; pattern to be selected; including fitting of all necessary trims; all in accordance with the Architect's details and specifications | Floors | exceeding 300mm wide",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 577,
+    "item": "TILE SLAB AND MOSAIC FINISHES | Water seal between tiles and bath/shower tray; 'Classi Seal' - flexible waterproof upstand; fixed to backing board background securely with adhesive and mechanical screw fixings; fixed in accordance with manufacturer's instructions; all in accordance with Architects specification. | Sundries | like items; flexible waterproof upstand; (bath & shower-trays)",
+    "predicted_tag": "Tiling"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 583,
+    "item": "GENEREALLY | Contractor design item for full mechanical installation complete; including but not limited to Heating installation, Water distribution, Ventilation and Above Ground Soils & Wastes complete | Mechanical Installations | mechanical installation complete",
+    "predicted_tag": "Mechanical"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 588,
+    "item": "BUILDERS WORK IN CONNECTION WITH THE MECHANICAL SERVICES | Builder's Work in connection with the mechanical installations complete: | Contractor to include for all builders work in connection with mechanical installation; form openings in all walls, floors, ceilings, roof, etc. for all service runs, forming openings in walls for service boxes and associated lintol supports; framing and supports to water tanks, cylinders, panels on roof etc.; grounds for all services; include for making good all openings and finishes; Include for all fireproofing works associated with same | Composite item | builder's work",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 594,
+    "item": "GENERALLY | Contractor design item for full Electrical installation complete as required; including but not limited to supply and main distribution, Power, Lighting, communications and security and protection complete | Electrical Installations | electrical installation complete",
+    "predicted_tag": "Electrical"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 599,
+    "item": "BUILDERS WORK IN CONNECTION WITH THE ELECTRICAL SERVICES | Builder's Work in connection with the following electrical installations complete: | Contractor to include for all builders work in connection with electrical installation; form openings in all walls, floors, ceilings, roof, etc. for all service runs, framing and supports to services, panels on roof etc.; grounds for all services; include for making good all openings and finishes; Include for all fireproofing works associated with same | Composite item | builder's work",
+    "predicted_tag": "Builders Works - UNMAPPED"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 606,
+    "item": "~~~BATHROOM~~~ | Supply and fix sanitaryware complete, Sonas or equal approved; complete; include for all associated, sealant, fixings and fittings; including all tanking to walls/floors including Aquatank Neo-Flex membrane or similar approved on Aquatank pro-tile primer or similar approved; Aquatank self adhesive tape+ (standard size) or similar approved to all corners, wall & floor connections, pipe junctions and outlets; all in accordance with Studio DSQ sanitaryware schedule and specifications | WC unit complete; pan, cistern, seat covers, flushing unit/handle, all pipework connections etc. | WC complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 607,
+    "item": "~~~BATHROOM~~~ | WC complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 609,
+    "item": "~~~BATHROOM~~~ | Wash hand basin complete; vanity unit; basin, pedestal, taps, plugs, wastes, traps, vanity units all pipework connections etc. | WHB complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 610,
+    "item": "~~~BATHROOM~~~ | WHB complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 612,
+    "item": "~~~BATHROOM~~~ | Bath complete; taps, plugs, wastes, traps, all pipework connections etc. | Bath complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 613,
+    "item": "~~~BATHROOM~~~ | Bath complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 615,
+    "item": "~~~BATHROOM~~~ | Shower screen for Bath; including mastic pointing & seals as required | Bath Screen complete (Supply)",
+    "predicted_tag": "Glazing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 616,
+    "item": "~~~BATHROOM~~~ | Bath Screen complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 619,
+    "item": "~~~ (ENSUITES)~~~ | WC unit complete; pan, cistern, seat covers, flushing unit/handle, all pipework connections etc. | WC complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 620,
+    "item": "~~~ (ENSUITES)~~~ | WC complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 622,
+    "item": "~~~ (ENSUITES)~~~ | Wash hand basin complete; basin, pedestal, taps, plugs, wastes, traps, all pipework connections etc. | WHB complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 623,
+    "item": "~~~ (ENSUITES)~~~ | WHB complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 625,
+    "item": "~~~ (ENSUITES)~~~ | Shower complete, shower trays; slider door & screen, wastes, taps, plugs, shower kit incl. head, rail, elbows and any necessary equipment to complete shower system; all as per Interior designers sanitary ware schedule | Shower complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 626,
+    "item": "~~~ (ENSUITES)~~~ | Shower complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 629,
+    "item": "~~~ (WC) ~~~ | WC unit complete; pan, cistern, seat covers, flushing unit/handle, all pipework connections etc. | WC complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 630,
+    "item": "~~~ (WC) ~~~ | WC complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 632,
+    "item": "~~~ (WC) ~~~ | Wash hand basin complete; basin, pedestal, taps, plugs, wastes, traps, all pipework connections etc. | WHB complete (Supply)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 633,
+    "item": "~~~ (WC) ~~~ | WHB complete (Fit)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 636,
+    "item": "~~~ (WC) ~~~ | Supply and fix mirrors complete; various sizes; 4mm thick glass; bonded to backing; polished edges; include for all associated fittings; all in accordance with the Architects sanitaryware schedule | Fittings, sanitary | mirrors; 1400mm x 870mm (Bathroom)",
+    "predicted_tag": "Glazing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 637,
+    "item": "~~~ (WC) ~~~ | mirrors; 1200mm x 970mm (Ensuite)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 638,
+    "item": "~~~ (WC) ~~~ | mirrors; 600mm x 600mm (WC)",
+    "predicted_tag": "Plumbing"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 644,
+    "item": "PRIME COST SUMS | Provide the following Prime Cost Sum for work to be executed, detailed and designed in accordance with Clause 16 - 19 of the RIAI conditions of Contract | Supply of Kitchen | Provide the following P.C. Sum of \u20ac10,000.00 per unit (Total \u20ac20,000) for the supply and installation of Kitchen & Utility Units",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 645,
+    "item": "PRIME COST SUMS | Profit",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 649,
+    "item": "PRIME COST SUMS | General attendances as defined | Special attendance on sub-contractor including special scaffolding, unloading and distributing, hoisting, placing in position items of plant etc, provision of covered storage and accommodation, temporary power and lighting etc | Supply of Appliances | Provide the following P.C. Sum of \u20ac2,500.00 per Apartment (Total \u20ac5,000) for the supply and installation all associated electrical appliances",
+    "predicted_tag": "Electrical"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 650,
+    "item": "PRIME COST SUMS | Profit",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 654,
+    "item": "PRIME COST SUMS | General attendances as defined | Special attendance on sub-contractor including special scaffolding, unloading and distributing, hoisting, placing in position items of plant etc, provision of covered storage and accommodation, temporary power and lighting etc | Supply of Wardrobes | Provide the following P.C. Sum of \u20ac1,000 for the supply and installation of Wardrobes for each bedroom (Total \u20ac6,000)",
+    "predicted_tag": "Joinery"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 655,
+    "item": "PRIME COST SUMS | Profit",
+    "predicted_tag": "General / Preliminaries"
+  },
+  {
+    "file": "project_b.xlsx",
+    "sheet": "BoQ",
+    "row": 662,
+    "item": "FITTINGS, EQUIPMENT AND FURNITURE | General attendances as defined | Special attendance on sub-contractor including special scaffolding, unloading and distributing, hoisting, placing in position items of plant etc, provision of covered storage and accommodation, temporary power and lighting etc | Door numbers; surface mounted; raised stainless steel signage; concealed fixings; brushed finish to match front door ironmongery; include for fixing to front door as per manufacturer's instructions; all as per Architects drawings and specifications (some houses which will require a multiple of single numbers to complete the numbering for all houses - item measured as 1nr below for each house - contractor to note total number required when pricing this item). | Door numbers | door numbers",
+    "predicted_tag": "General / Preliminaries"
+  }
+]
